@@ -275,3 +275,4 @@ x64/
 .env
 .env.local
 appsettings.Development.json
+appsettings.*.json
